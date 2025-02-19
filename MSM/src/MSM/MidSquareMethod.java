@@ -45,7 +45,6 @@ public class MidSquareMethod {
     public static void main(String[] args) {
         int chave = 82; // Exemplo de chave
         int indiceHash = hashingQuadradoDoMeio(chave);
-        System.out.println("Índice de hash gerado: " + indiceHash); // Agora o índice é o número central
-    }
+        System.out.println("Índice de hash gerado: " + indiceHash); 
 }
 
